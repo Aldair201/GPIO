@@ -1,8 +1,8 @@
 /* 
  * File:   pinout.h
- * Author: ASUS
+ * Author: Aldair
  *
- * Created on 17 de noviembre de 2020, 08:24 AM
+ * Created on 17 de noviembre de 2020, 11:34 AM
  */
 
 #ifndef PINOUT_H
@@ -17,7 +17,7 @@ extern "C" {
 
 #define velocidad_pin TRISBbits.TRISB6
 #define velocidad_value PORTBbits.RB6
-    
+
 
 #ifdef	__cplusplus
 }
