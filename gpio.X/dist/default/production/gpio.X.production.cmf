@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+$C:\Users\Aldair\AppData\Local\Temp\s29o.o
 idloc IDLOC 5 200000 200000 8 1
 init CODE 0 0 0 4 1
 config CONFIG 4 300000 300000 E 1
@@ -134,28 +134,28 @@ $dist/default/production\gpio.X.production.o
 79BA text0 CODE >61:C:\Users\Aldair\Documents\GitHub\GPIO\gpio.X\secuencia_main.c
 79BE text0 CODE >62:C:\Users\Aldair\Documents\GitHub\GPIO\gpio.X\secuencia_main.c
 79C2 text0 CODE >63:C:\Users\Aldair\Documents\GitHub\GPIO\gpio.X\secuencia_main.c
-7932 cinit CODE >523:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7932 cinit CODE >525:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7932 cinit CODE >528:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7932 cinit CODE >549:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7934 cinit CODE >550:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7936 cinit CODE >551:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7938 cinit CODE >552:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-793A cinit CODE >553:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-793C cinit CODE >554:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-793E cinit CODE >555:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7942 cinit CODE >556:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7946 cinit CODE >557:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7946 cinit CODE >558:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7948 cinit CODE >559:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-794C cinit CODE >560:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-794E cinit CODE >561:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7950 cinit CODE >562:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7952 cinit CODE >568:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7952 cinit CODE >571:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7954 cinit CODE >572:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7956 cinit CODE >573:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
-7958 cinit CODE >574:C:\Users\Aldair\AppData\Local\Temp\sbeg.s
+7932 cinit CODE >523:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7932 cinit CODE >525:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7932 cinit CODE >528:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7932 cinit CODE >549:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7934 cinit CODE >550:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7936 cinit CODE >551:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7938 cinit CODE >552:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+793A cinit CODE >553:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+793C cinit CODE >554:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+793E cinit CODE >555:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7942 cinit CODE >556:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7946 cinit CODE >557:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7946 cinit CODE >558:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7948 cinit CODE >559:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+794C cinit CODE >560:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+794E cinit CODE >561:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7950 cinit CODE >562:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7952 cinit CODE >568:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7952 cinit CODE >571:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7954 cinit CODE >572:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7956 cinit CODE >573:C:\Users\Aldair\AppData\Local\Temp\s29o.s
+7958 cinit CODE >574:C:\Users\Aldair\AppData\Local\Temp\s29o.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -174,22 +174,22 @@ __Hspace_1 11 0 ABS 0 - dist/default/production\gpio.X.production.o
 __Hspace_2 0 0 ABS 0 - dist/default/production\gpio.X.production.o
 __Hspace_4 60000E 0 ABS 0 - dist/default/production\gpio.X.production.o
 __Hibigdata 0 0 CODE 0 ibigdata dist/default/production\gpio.X.production.o
-__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __Heeprom_data 0 0 EEDATA 0 eeprom_data dist/default/production\gpio.X.production.o
 __Lsmallconst 0 0 SMALLCONST 0 smallconst dist/default/production\gpio.X.production.o
 _LATD F8C 0 ABS 0 - dist/default/production\gpio.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+___sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\s29o.o
 _main 795C 0 CODE 0 text0 dist/default/production\gpio.X.production.o
-start 0 0 CODE 0 init C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+start 0 0 CODE 0 init C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __size_of_main 0 0 ABS 0 - dist/default/production\gpio.X.production.o
 __Hpowerup 0 0 CODE 0 powerup dist/default/production\gpio.X.production.o
 __HdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production\gpio.X.production.o
 _velocidad C 0 COMRAM 1 dataCOMRAM dist/default/production\gpio.X.production.o
-__accesstop 60 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-intlevel0 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-intlevel1 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-intlevel2 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-intlevel3 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+__accesstop 60 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\s29o.o
+intlevel0 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\s29o.o
+intlevel1 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\s29o.o
+intlevel2 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\s29o.o
+intlevel3 0 0 CODE 0 text C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __end_of_secuencial_Efecto1 7B62 0 CODE 0 text4 dist/default/production\gpio.X.production.o
 __end_of_secuencial_Efecto2 7E4E 0 CODE 0 text3 dist/default/production\gpio.X.production.o
 __end_of_secuencial_Efecto3 7CC4 0 CODE 0 text2 dist/default/production\gpio.X.production.o
@@ -198,8 +198,8 @@ __LnvFARRAM 0 0 FARRAM 0 nvFARRAM dist/default/production\gpio.X.production.o
 __Hifardata 0 0 CODE 0 ifardata dist/default/production\gpio.X.production.o
 __Hclrtext 0 0 ABS 0 clrtext dist/default/production\gpio.X.production.o
 __pidataCOMRAM 792D 0 CODE 0 idataCOMRAM dist/default/production\gpio.X.production.o
-___inthi_sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-___intlo_sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+___inthi_sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\s29o.o
+___intlo_sp 0 0 STACK 2 stack C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __LdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production\gpio.X.production.o
 __Hintcode_body 0 0 ABS 0 intcode_body dist/default/production\gpio.X.production.o
 _secuencial_Efecto1 7A00 0 CODE 0 text4 dist/default/production\gpio.X.production.o
@@ -239,7 +239,7 @@ __Htext3 0 0 ABS 0 text3 dist/default/production\gpio.X.production.o
 __Htext4 0 0 ABS 0 text4 dist/default/production\gpio.X.production.o
 __Hbigbss 0 0 BIGRAM 1 bigbss dist/default/production\gpio.X.production.o
 __Hbigram 0 0 ABS 0 bigram dist/default/production\gpio.X.production.o
-__smallconst 0 0 SMALLCONST 0 smallconst C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+__smallconst 0 0 SMALLCONST 0 smallconst C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __Hcomram 0 0 ABS 0 comram dist/default/production\gpio.X.production.o
 __Hconfig 30000E 0 CONFIG 4 config dist/default/production\gpio.X.production.o
 __Lbank0 0 0 ABS 0 bank0 dist/default/production\gpio.X.production.o
@@ -307,8 +307,8 @@ __Lcomram 0 0 ABS 0 comram dist/default/production\gpio.X.production.o
 __Lconfig 0 0 CONFIG 4 config dist/default/production\gpio.X.production.o
 __Lfarbss 0 0 FARRAM 0 farbss dist/default/production\gpio.X.production.o
 __Lfardata 0 0 FARRAM 0 fardata dist/default/production\gpio.X.production.o
-stackhi 7FF 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\sbeg.o
-stacklo 60 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+stackhi 7FF 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\s29o.o
+stacklo 60 0 ABS 0 - C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __Lintcode 0 0 CODE 0 intcode dist/default/production\gpio.X.production.o
 __Lintret 0 0 ABS 0 intret dist/default/production\gpio.X.production.o
 __Lirdata 0 0 CODE 0 irdata dist/default/production\gpio.X.production.o
@@ -330,7 +330,7 @@ __ptext2 7B62 0 CODE 0 text2 dist/default/production\gpio.X.production.o
 __ptext3 7CC4 0 CODE 0 text3 dist/default/production\gpio.X.production.o
 __ptext4 7A00 0 CODE 0 text4 dist/default/production\gpio.X.production.o
 __Lstruct 0 0 COMRAM 1 struct dist/default/production\gpio.X.production.o
-__ramtop 800 0 RAM 0 ramtop C:\Users\Aldair\AppData\Local\Temp\sbeg.o
+__ramtop 800 0 RAM 0 ramtop C:\Users\Aldair\AppData\Local\Temp\s29o.o
 __Lpowerup 0 0 CODE 0 powerup dist/default/production\gpio.X.production.o
 __Leeprom_data 0 0 EEDATA 0 eeprom_data dist/default/production\gpio.X.production.o
 __Lreset_vec 0 0 CODE 0 reset_vec dist/default/production\gpio.X.production.o
